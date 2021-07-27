@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Engineering in Wolkite University, Ethiopia.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-Enail: abebayehualaro@gmail.com
+Email: abebayehualaro@gmail.com
 Mobile: +251964387251
 <!---
 Abebayehu-Alaro/Abebayehu-Alaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
