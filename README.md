@@ -1,8 +1,18 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80" />
-  <h1>Hi there, I'm Abebayehu Alaro 👋</h1>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" />
   
-  <h3>Software Engineer @ <a href="https://awashbank.com/" target="_blank">Awash Bank</a></h3>
+  <h1>Hi there, I'm Abebayehu Alaro 👋</h1>
+   
+  <h3>
+    Software Engineer @ <a href="https://awashbank.com/" target="_blank">Awash Bank</a>
+    &nbsp; | &nbsp;
+    Founder @ <a href="https://abanexus.vercel.app/" target="_blank">Aba Nexus AI</a>
+  </h3>
+
+  <a href="https://abanexus.vercel.app/" target="_blank">
+    <img src="https://abanexus.vercel.app/images/logo_1.png" width="120" alt="Aba Nexus AI Logo" />
+  </a>
+  <br/><br/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2334D0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Expert;Python+%26+Deep+Learning+Enthusiast;Odoo+Developer" alt="Typing SVG" />
@@ -10,7 +20,7 @@
 
   <p>
     <a href="https://abanexus.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Aba_Nexus-Visit%20My%20Company-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
     </a>
     <a href="mailto:abebayehualaro@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email" />
@@ -23,6 +33,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working as a **Software Engineer** at **Awash Bank**, Addis Ababa.
+- 🚀 I am also building AI solutions at my company, **Aba Nexus AI**.
 - 🌱 I focus on building scalable systems using **Java (Spring Boot)** and **Python (FastAPI/Django)**.
 - 🧠 I have a deep interest in **Deep Learning IMP Models** and AI integration.
 - 💼 I specialize in **Odoo ERP** development and Full Stack Web implementations.
@@ -45,7 +56,11 @@
 
 ---
 
-### 📊 My Engineering Impact (Including Private Work)
+### 📊 My Engineering Impact
+
+> **Note on Activity:** > 🚧 Most of my daily coding activity (Enterprise Odoo/Spring Boot) happens on a **private GitLab instance** at **Awash Bank**.  
+> 🐙 This GitHub profile represents my personal R&D, Open Source contributions, and **Aba Nexus AI** projects.
+
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Abebayehu-Alaro&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abebayehu-Alaro&layout=compact&theme=tokyonight&count_private=true" width="45%" />
