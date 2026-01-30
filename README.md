@@ -45,11 +45,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Abebayehu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abebayehu-Alaro&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abebayehu-Alaro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+### 📊 My GitHub Journey
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Abebayehu-Alaro&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abebayehu-Alaro&layout=compact&theme=tokyonight" width="45%" />
+</div>
 
 ---
 
