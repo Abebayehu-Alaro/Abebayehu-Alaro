@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - Email: abebayehualaro@gmail.com
 - Mobile: +251964387251
-- portfolio: https://abanexus.vercel.app/
+- Portfolio: https://abanexus.vercel.app/
 <!---
 Abebayehu-Alaro/Abebayehu-Alaro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
