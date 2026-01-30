@@ -45,11 +45,15 @@
 
 ---
 
-### 📊 My GitHub Journey
+### 📊 My Engineering Impact (Including Private Work)
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Abebayehu-Alaro&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abebayehu-Alaro&layout=compact&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Abebayehu-Alaro&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Abebayehu-Alaro&layout=compact&theme=tokyonight&count_private=true" width="45%" />
 </div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abebayehu-Alaro&theme=tokyonight" width="100%" />
+</p>
 
 ---
 
