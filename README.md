@@ -58,7 +58,7 @@
 
 ### 📊 My Engineering Impact
 
-> **Note on Activity:** > 🚧 Most of my daily coding activity (Enterprise Odoo/Spring Boot) happens on a **private GitLab instance** at **Awash Bank**.  
+> **Note on Activity:** > 🚧 Most of my daily coding activity (Enterprise Odoo/Spring Boot/Angular/NextJS/AI Models) happens on a **private GitLab instance** at **Awash Bank**.  
 > 🐙 This GitHub profile represents my personal R&D, Open Source contributions, and **Aba Nexus AI** projects.
 
 <div align="center">
