@@ -26,7 +26,7 @@
 - 🌱 I focus on building scalable systems using **Java (Spring Boot)** and **Python (FastAPI/Django)**.
 - 🧠 I have a deep interest in **Deep Learning IMP Models** and AI integration.
 - 💼 I specialize in **Odoo ERP** development and Full Stack Web implementations.
-- 👯 I’m looking to collaborate on **Open Source Deep Learning projects** or **SaaS platforms**.
+- 👯 I’m looking to collaborate on **Deep Learning projects** or **SaaS platforms**.
 
 ---
 
@@ -47,15 +47,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Abebayehu-Alaro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abebayehu-Alaro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="languages graph" />
-</div>
+![Abebayehu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abebayehu-Alaro&show_icons=true&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abebayehu-Alaro&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abebayehu-Alaro&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ---
 
